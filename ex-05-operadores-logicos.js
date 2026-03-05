@@ -73,7 +73,7 @@ export const resposta05 = null == null
 export const resposta06 = 456 !== undefined
 
 /* Questão 07 */
-export const resposta07 = false != true == true
+export const resposta07 = false != true === true
 
 /* Questão 08 */
 export const resposta08 = 20 === 20
