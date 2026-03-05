@@ -96,3 +96,67 @@ export let objetoNulo
 
 /* Questão 20 */
 export let valorVerdadeiro
+
+//RESPOSTA
+
+/* Questão 01 */
+export let musicaFavorita = "Depois - Marisa Monte"
+
+/* Questão 02 */
+export let objetoQualquer = { nome: "Objeto", tipo: "exemplo" }
+
+/* Questão 03 */
+export let valorIndefinido = undefined
+
+/* Questão 04 */
+export let tartarugasVoamVerdadeOuNao = false
+
+/* Questão 05 */
+export let noveDivididoPorTres = 3
+
+/* Questão 06 */
+export let papagaiosFalamVerdadeOuNao = true
+
+/* Questão 07 */
+export let umaFuncao = function() {
+  return "Olá!"
+}
+
+/* Questão 08 */
+export let cemDivididoPorCinco = 20
+
+/* Questão 09 */
+export let nomeDaSuaEscola = "Nome da minha escola"
+
+/* Questão 10 */
+export let quinzeMaisCinco = 20
+
+/* Questão 11 */
+export let valorFalso = false
+
+/* Questão 12 */
+export let dezMaisQuatro = 14
+
+/* Questão 13 */
+export let nomeDoSeuEstado = "Pernambuco"
+
+/* Questão 14 */
+export let artistaFavorito = "Marisa Monte"
+
+/* Questão 15 */
+export let seteVezesSete = 49
+
+/* Questão 16 */
+export let umMaiorQueDoisVerdadeOuNao = false
+
+/* Questão 17 */
+export let comidaFavorita = "Lasanha"
+
+/* Questão 18 */
+export let oCeuEhAzulVerdadeOuNao = true
+
+/* Questão 19 */
+export let objetoNulo = null
+
+/* Questão 20 */
+export let valorVerdadeiro = true
