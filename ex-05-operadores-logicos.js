@@ -53,7 +53,7 @@ de modo que a resposta final seja SEMPRE true
 
 MÍNIMO DE RESPOSTAS NECESSÁRIAS: 4
 */
-
+//
 /* Questão 01 */
 export const resposta01 = 14 / 2  3
 
