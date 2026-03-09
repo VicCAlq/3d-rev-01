@@ -3,8 +3,7 @@
 
 ### My files ###
 # Test files
-exercicios.test.js
-.ex.test.js
+*.test.js
 
 ### Node ###
 # Logs
