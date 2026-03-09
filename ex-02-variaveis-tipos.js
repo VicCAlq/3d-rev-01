@@ -40,7 +40,7 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 export let musicaFavorita = "Snot, Snot"
 
 /* Questão 02 */
-export let objetoQualquer = "cadeira"
+export let objetoQualquer = [márcio, cársio, antonio]
 
 /* Questão 03 */
 export let valorIndefinido = undefined 
