@@ -77,19 +77,19 @@ export class Clientesdosalao {}
 export let proximaEtapa = true
 
 /* Questão 04 */
-export const dataehorario = true
+export const dataEhorario = true
 
 /* Questão 05 */
 export const videoAula = true
 
 /* Questão 06 */
-export let arquivoprincipal = true
+export let arquivoPrincipal = true
 
 /* Questão 07 */
 export class ComodosDaCasa {}
 
 /* Questão 08 */
-export let quatrorodas = true
+export let quatroRodas = true
 
 /* Questão 09 */
 export let cincoPowerRangers = true
@@ -104,7 +104,7 @@ export const cemreaisEmBarrasdeOURO = true
 export const paginaInicial = true
 
 /* Questão 13 */
-export let cincopatinhosForamPassear = true
+export let cincoPatinhosForamPassear = true
 
 /* Questão 14 */
 export class UmBesouro {}
@@ -122,7 +122,7 @@ export const camaMesaEBanho = true
 export let precoDOproduto = true
 
 /* Questão 19 */
-export const codigofonte = true
+export const codigoFonte = true
 
 /* Questão 20 */
 export class Cabofrio {}
