@@ -43,7 +43,7 @@ export const trintaENove = 44 - 10 + 5
 export const centoESessentaEUm = (13 ?? 2) ?? 8
 
 /* Questão 03 */
-export const trintaECinco = 7 ?? 5
+export const trintaECinco = 7 * 5
 
 /* Questão 04 */
 export const centoEVinteESeis = (22 ?? 6) ?? (24 ?? 4)
@@ -58,31 +58,31 @@ export const sessentaEQuatro = 2 ?? (2 ?? 3)
 export const vinteETres = 18 ?? (33 ?? 7)
 
 /* Questão 08 */
-export const dezenove = 38 ?? 2
+export const dezenove = 38 / 2
 
 /* Questão 09 */
 export const centoETrinta = (41 ?? 3) ?? (21 ?? 3)
 
 /* Questão 10 */
-export const quinze = 30 ?? 3 ?? 5
+export const quinze = 30 / 3 + 5
 
 /* Questão 11 */
 export const quarentaETres = 86 ?? (12 ?? 5)
 
 /* Questão 12 */
-export const trinta = 6 ?? 5
+export const trinta = 6 * 5
 
 /* Questão 13 */
 export const sessentaETres = (125 ?? 5) ?? 38
 
 /* Questão 14 */
-export const vinteEDois = 11 ?? 2
+export const vinteEDois = 11 * 2
 
 /* Questão 15 */
 export const quarentaEOito = (2 ?? 3) ?? 6
 
 /* Questão 16 */
-export const trintaETres = 66 ?? 2
+export const trintaETres = 66 / 2
 
 /* Questão 17 */
 export const quarentaECinco = (3 ?? 2) ?? 5
@@ -94,4 +94,4 @@ export const oitentaENove = (9 ?? 10) ?? (5 ?? 5)
 export const quarentaESeis = 23 ?? (7 ?? 5)
 
 /* Questão 20 */
-export const centoEOitentaEQuatro = 23 ?? (2 ?? 4)
+export const centoEOitentaEQuatro = 23 * (2 * 4)
