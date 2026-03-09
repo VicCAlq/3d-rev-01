@@ -36,67 +36,6 @@ depois do nome da variável, e logo depois do "=" colocar o valor desejado.
 MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
-/* Questão 01 */
-export let musicaFavorita
-
-/* Questão 02 */
-export let objetoQualquer
-
-/* Questão 03 */
-export let valorIndefinido
-
-/* Questão 04 */
-export let tartarugasVoamVerdadeOuNao
-
-/* Questão 05 */
-export let noveDivididoPorTres
-
-/* Questão 06 */
-export let papagaiosFalamVerdadeOuNao
-
-/* Questão 07 */
-export let umaFuncao
-
-/* Questão 08 */
-export let cemDivididoPorCinco
-
-/* Questão 09 */
-
-export let nomeDaSuaEscola
-/* Questão 10 */
-
-export let quinzeMaisCinco
-/* Questão 11 */
-
-export let valorFalso
-/* Questão 12 */
-
-export let dezMaisQuatro
-
-/* Questão 13 */
-export let nomeDoSeuEstado
-
-/* Questão 14 */
-export let artistaFavorito
-
-/* Questão 15 */
-export let seteVezesSete
-
-/* Questão 16 */
-export let umMaiorQueDoisVerdadeOuNao
-
-/* Questão 17 */
-export let comidaFavorita
-
-/* Questão 18 */
-export let oCeuEhAzulVerdadeOuNao
-
-/* Questão 19 */
-export let objetoNulo
-
-/* Questão 20 */
-export let valorVerdadeiro
-
 //RESPOSTA
 
 /* Questão 01 */
