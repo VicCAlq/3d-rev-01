@@ -71,7 +71,7 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 export let funcaoImportante = true
 
 /* Questão 02 */
-export class ClientesDoSalão {}
+export class ClientesDoSalao  {}
 
 /* Questão 03 */
 export let proximaEtapa = true

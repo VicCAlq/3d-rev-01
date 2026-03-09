@@ -40,7 +40,7 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 export let musicaFavorita = "Dreams, Fleetwood Mac"
 
 /* Questão 02 */
-export let objetoQualquer = "caneta"
+export let objetoQualquer = [garrafa, antena, zíper]
 
 /* Questão 03 */
 export let valorIndefinido = undefined
