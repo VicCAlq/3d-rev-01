@@ -68,55 +68,72 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 8
 */
 
 /* Questão 01 */
-export let funçãoImportante = true
+export let gatinhosSaoFofos = true
+
 
 /* Questão 02 */
-export class clientes_do_salão {}
+export class Carro {}
+
 
 /* Questão 03 */
-export let próximaEtapa = true
+export let aguaETransparente = true
+
 
 /* Questão 04 */
-export const data_e_horario = true
+export const aguaPodeSerSalgada = true
+
 
 /* Questão 05 */
-export const vídeoAula = true
+export const aguaPodeSerDoce = true
+
 
 /* Questão 06 */
-export let arquivo_principal = true
+export let  = true
+
 
 /* Questão 07 */
-export class CômodosDaCasa {}
+export class ComodosDaCasa {}
+
 
 /* Questão 08 */
-export let $4rodas = true
+export let CarrosTemRodas = true
+
 
 /* Questão 09 */
-export let _5PowerRangers = true
+export let existeVariosPowerRangers = true
+
 
 /* Questão 10 */
-export let puro_Aço = true
+export let facaEAfiada = true
+
 
 /* Questão 11 */
-export const $100reaisEmBarras_de_OURO = true
+export const ouroECaro = true
+
 
 /* Questão 12 */
-export const páginaInicial = true
+export const livrosTemPaginas = true
+
 
 /* Questão 13 */
-export let _5patinhosForamPassear = true
+export let foram5patinhosPassear = true
+
 
 /* Questão 14 */
-export class $1besouro {}
+export class Besouro {}
+
 
 /* Questão 15 */
-export class Roupas_Juninas {}
+export class RoupasJuninas {}
+
 
 /* Questão 16 */
-export let cálculosMatemáticos = true
+export let cálculosMatemáticosExistemEmVariasAreas = true
+
 
 /* Questão 17 */
-export const camaMesa_E_Banho = true
+export const = true
+
 
 /* Questão 18 */
 export let preçoDOproduto = true
