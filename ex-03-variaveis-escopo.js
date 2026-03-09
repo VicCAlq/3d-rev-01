@@ -150,22 +150,22 @@ MÍNIMO DE RESPOSTAS NECESSÁRIAS: 4
 */
 
 /* Questão 01: avdol enxerga jotaro?*/
-export const resposta01 = undefined
+export const resposta01 = true
 
 /* Questão 02: kira enxerga kakyoin?*/
-export const resposta02 = undefined
+export const resposta02 = false
 
 /* Questão 03: wham enxerga polnareff?*/
-export const resposta03 = undefined
+export const resposta03 = false
 
 /* Questão 04: emporio enxerga bruno?*/
-export const resposta04 = undefined
+export const resposta04 = true
 
 /* Questão 05: jolyne enxerga bruno?*/
-export const resposta05 = undefined
+export const resposta05 = true
 
 /* Questão 06: speedwagon enxerga koichi?*/
-export const resposta06 = undefined
+export const resposta06 = false
 
 /* Questão 07: kars enxerga joseph?*/
 export const resposta07 = undefined
