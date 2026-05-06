@@ -1,82 +1,85 @@
-| Questão | Exercício | Entregue | Correto |
-|---------|-----------|----------|---------|
-|  1 | Ex 01 | ❌ | ❌ |
-|  2 | Ex 01 | ❌ | ❌ |
-|  3 | Ex 01 | ❌ | ❌ |
-|  4 | Ex 01 | ❌ | ❌ |
-|  5 | Ex 01 | ❌ | ❌ |
-|  6 | Ex 01 | ❌ | ❌ |
-|  7 | Ex 01 | ❌ | ❌ |
-|  8 | Ex 01 | ❌ | ❌ |
-|  9 | Ex 01 | ❌ | ❌ |
-| 10 | Ex 01 | ❌ | ❌ |
-| 11 | Ex 01 | ❌ | ❌ |
-| 12 | Ex 01 | ❌ | ❌ |
-| 13 | Ex 01 | ❌ | ❌ |
-| 14 | Ex 01 | ❌ | ❌ |
-| 15 | Ex 01 | ❌ | ❌ |
-| 16 | Ex 01 | ❌ | ❌ |
-| 17 | Ex 01 | ❌ | ❌ |
-| 18 | Ex 01 | ❌ | ❌ |
-| 19 | Ex 01 | ❌ | ❌ |
-| 20 | Ex 01 | ❌ | ❌ |
-|  1 | Ex 02 | ❌ | ❌ |
-|  2 | Ex 02 | ❌ | ❌ |
-|  3 | Ex 02 | ✅ | ✅ |
-|  4 | Ex 02 | ❌ | ❌ |
-|  5 | Ex 02 | ❌ | ❌ |
-|  6 | Ex 02 | ❌ | ❌ |
-|  7 | Ex 02 | ❌ | ❌ |
-|  8 | Ex 02 | ❌ | ❌ |
-|  9 | Ex 02 | ❌ | ❌ |
-| 10 | Ex 02 | ❌ | ❌ |
-| 11 | Ex 02 | ❌ | ❌ |
-| 12 | Ex 02 | ❌ | ❌ |
-| 13 | Ex 02 | ❌ | ❌ |
-| 14 | Ex 02 | ❌ | ❌ |
-| 15 | Ex 02 | ❌ | ❌ |
-| 16 | Ex 02 | ❌ | ❌ |
-| 17 | Ex 02 | ❌ | ❌ |
-| 18 | Ex 02 | ❌ | ❌ |
-| 19 | Ex 02 | ❌ | ❌ |
-| 20 | Ex 02 | ❌ | ❌ |
-|  1 | Ex 03 | ❌ | ❌ |
-|  2 | Ex 03 | ❌ | ❌ |
-|  3 | Ex 03 | ❌ | ❌ |
-|  4 | Ex 03 | ❌ | ❌ |
-|  5 | Ex 03 | ❌ | ❌ |
-|  6 | Ex 03 | ❌ | ❌ |
-|  7 | Ex 03 | ❌ | ❌ |
-|  8 | Ex 03 | ❌ | ❌ |
-|  9 | Ex 03 | ❌ | ❌ |
-| 10 | Ex 03 | ❌ | ❌ |
-|  1 | Ex 04 | ✅ | ✅ |
-|  2 | Ex 04 | ✅ | ✅ |
-|  3 | Ex 04 | ✅ | ✅ |
-|  4 | Ex 04 | ✅ | ✅ |
-|  5 | Ex 04 | ✅ | ✅ |
-|  6 | Ex 04 | ✅ | ✅ |
-|  7 | Ex 04 | ✅ | ✅ |
-|  8 | Ex 04 | ✅ | ✅ |
-|  9 | Ex 04 | ✅ | ✅ |
-| 10 | Ex 04 | ✅ | ✅ |
-| 11 | Ex 04 | ✅ | ✅ |
-| 12 | Ex 04 | ✅ | ✅ |
-| 13 | Ex 04 | ✅ | ✅ |
-| 14 | Ex 04 | ✅ | ✅ |
-| 15 | Ex 04 | ✅ | ✅ |
-| 16 | Ex 04 | ✅ | ✅ |
-| 17 | Ex 04 | ✅ | ✅ |
-| 18 | Ex 04 | ✅ | ✅ |
-| 19 | Ex 04 | ✅ | ✅ |
-| 20 | Ex 04 | ✅ | ✅ |
-|  1 | Ex 05 | ❌ | ❌ |
-|  2 | Ex 05 | ❌ | ❌ |
-|  3 | Ex 05 | ❌ | ❌ |
-|  4 | Ex 05 | ❌ | ❌ |
-|  5 | Ex 05 | ❌ | ❌ |
-|  6 | Ex 05 | ❌ | ❌ |
-|  7 | Ex 05 | ✅ | ❌ |
-|  8 | Ex 05 | ❌ | ❌ |
-|  9 | Ex 05 | ❌ | ❌ |
-| 10 | Ex 05 | ✅ | ❌ |
+Data de atualização: Dia 06/05/2026 às 11:17:59
+ 
+
+| Questão | Exercício | Entregue | Correto | Mensagem de Erro |
+|---------|-----------|----------|---------|------------------|
+|  1 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  2 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'function' |
+|  3 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  4 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  5 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  6 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  7 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'function' |
+|  8 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  9 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+| 10 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+| 11 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+| 12 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+| 13 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+| 14 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'function' |
+| 15 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'function' |
+| 16 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+| 17 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+| 18 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+| 19 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+| 20 | Ex 01 | ❌ | ❌ | AssertionError: expected undefined to be type of 'function' |
+|  1 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'string' |
+|  2 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'object' |
+|  3 | Ex 02 | ✅ | ✅ | Nenhum erro |
+|  4 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  5 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'number' |
+|  6 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  7 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'function' |
+|  8 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'number' |
+|  9 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'string' |
+| 10 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'number' |
+| 11 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+| 12 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'number' |
+| 13 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'string' |
+| 14 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'string' |
+| 15 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'number' |
+| 16 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+| 17 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'string' |
+| 18 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+| 19 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'object' |
+| 20 | Ex 02 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  1 | Ex 03 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  2 | Ex 03 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  3 | Ex 03 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  4 | Ex 03 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  5 | Ex 03 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  6 | Ex 03 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  7 | Ex 03 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  8 | Ex 03 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  9 | Ex 03 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+| 10 | Ex 03 | ❌ | ❌ | AssertionError: expected undefined to be type of 'boolean' |
+|  1 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  2 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  3 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  4 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  5 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  6 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  7 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  8 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  9 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 10 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 11 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 12 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 13 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 14 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 15 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 16 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 17 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 18 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 19 | Ex 04 | ✅ | ✅ | Nenhum erro |
+| 20 | Ex 04 | ✅ | ✅ | Nenhum erro |
+|  1 | Ex 05 | ❌ | ❌ | AssertionError: expected 7 to be type of 'boolean' |
+|  2 | Ex 05 | ❌ | ❌ | AssertionError: expected 'Abacate' to be type of 'boolean' |
+|  3 | Ex 05 | ❌ | ❌ | AssertionError: expected 123 to be type of 'boolean' |
+|  4 | Ex 05 | ❌ | ❌ | AssertionError: expected 70 to be type of 'boolean' |
+|  5 | Ex 05 | ❌ | ❌ | AssertionError: expected null to be type of 'boolean' |
+|  6 | Ex 05 | ❌ | ❌ | AssertionError: expected 456 to be type of 'boolean' |
+|  7 | Ex 05 | ✅ | ❌ | AssertionError: expected false to be true // Object.is equality |
+|  8 | Ex 05 | ❌ | ❌ | AssertionError: expected 20 to be type of 'boolean' |
+|  9 | Ex 05 | ❌ | ❌ | AssertionError: expected 'fido' to be type of 'boolean' |
+| 10 | Ex 05 | ✅ | ❌ | AssertionError: expected false to be true // Object.is equality |
